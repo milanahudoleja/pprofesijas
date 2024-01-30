@@ -1,2 +1,2 @@
-# pprofesijas
+# pprofesijas.
 manas profesijas.
